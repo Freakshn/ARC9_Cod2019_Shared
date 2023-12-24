@@ -5,6 +5,7 @@ You can add your own or even add the rest of it (since probably not all the atta
 
 ## Required Items
  - **ARC9** (which needs to be installed in order to make this pack work and serves as the main weapon base):
-https://github.com/HaodongMo/ARC-9
+https://githubfast.com/HaodongMo/ARC-9
  - **[ARC9] Call of Duty: Modern Warfare** (must install, serves as the main weapon pack):
-https://github.com/CurlySparkle/ARC9-COD2019
+https://githubfast.com/CurlySparkle/ARC9-COD2019
+测试
